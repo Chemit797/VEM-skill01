@@ -1,0 +1,4 @@
+interface:
+  display_name: "VEM T1 表达矩阵实验史"
+  short_description: "查清表达矩阵预测试过哪些方法、各项分数如何变化，并持续更新新方向"
+  default_prompt: "用 $vem-t1-matrix-history 整理这批 T1 实验，更新方向清单，并给下一批保留独立探索的空间。"
